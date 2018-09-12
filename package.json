@@ -1,0 +1,24 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "My-app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" &amp;&amp; exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessicajorge/Getting-Started-with-Node.js-Express-EJS-Bootstrap-and-TML.git"
+  },
+  "author": "Jessica Jorge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessicajorge/Getting-Started-with-Node.js-Express-EJS-Bootstrap-and-TML/issues"
+  },
+  "homepage": "https://github.com/jessicajorge/Getting-Started-with-Node.js-Express-EJS-Bootstrap-and-TML#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
